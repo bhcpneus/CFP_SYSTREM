@@ -41773,7 +41773,7 @@ if(g==null)g=0
 f=A.tx(o.y.a.a,null)
 if(f==null)f=0
 e=t.N
-f=A.a4(["nome",l,"ncm",k,"unidade",j,"gtin",i,"preco_custo",h,"preco",g,"estoque",f],e,t.K)
+f=A.a4(["nome",l,"ncm",k,"unidade",j,"gtin",i,"preco_custo",h,"preco_venda",g,"estoque",f],e,t.K)
 e=A.cv(m.b,e,e)
 e.m(0,"Prefer","")
 s=6
